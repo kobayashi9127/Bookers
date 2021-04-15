@@ -9,3 +9,9 @@ th {
 div {
   margin-bottom: 10px;
 }
+thead {
+    display: table-header-group;
+    vertical-align: middle;
+    border-color: inherit;
+
+}
